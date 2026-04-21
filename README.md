@@ -14,4 +14,4 @@ O **LexAI** é um assistente virtual jurídico desenvolvido em Python, focado em
 3. Adicione sua chave de serviço do Google Cloud (`.json`) na raiz do projeto.
 4. Rode o comando: `streamlit run app.py`
 
-*Aviso: Este é um projeto de portfólio tecnológico e educativo. Não substitui consulta com advogado registrado na OAB.*
+*Este é um projeto de portfólio tecnológico e educativo.*
